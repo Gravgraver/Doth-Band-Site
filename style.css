@@ -1,0 +1,48 @@
+h1 {
+	font-size: 400%;
+	font-style: italic;
+	margin: auto;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+
+h2 {
+	font-size: 250%;
+	margin: auto;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+
+h3{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: aliceblue;
+}
+
+h4{
+	margin-top: -10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";color: aliceblue;
+	color: aliceblue;
+	font-size: 24px;
+	font-style: oblique;
+}
+
+h5{
+	color: aliceblue;
+	margin-right: 150%;
+	margin-top: 8.5%;
+}
+
+h6 {
+	margin-top: 20px ;
+	margin-bottom: -20px;
+	color: aliceblue;
+}
+
+img {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
